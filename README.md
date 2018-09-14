@@ -11,6 +11,5 @@ pip install keras
 ```
 
 ## Keras Application link
-```bash
 [Keras Applications](https://github.com/keras-team/keras-applications)
-```
+
