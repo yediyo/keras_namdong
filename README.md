@@ -1,10 +1,10 @@
 # keras_namdong
-source code for namdong project
+source codes for namdong project
 
 <br/>
 
 ## Getting started
-#### 1. Basic
+### Basic
 * Installation
 ```bash
 pip install keras
